@@ -28,4 +28,4 @@ ${\color{MidnightBlue}Quant \space Finance:}$
 - "FM_thesis": A study on the evolving impact of Inflation numbers and other announced macro-related variables on currency prices.
   
 Some technologies I like to use:  
-[![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,py,tensorflow,r,windows,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,py,tensorflow,r,windows,obsidian,discord)](https://skillicons.dev)
