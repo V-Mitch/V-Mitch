@@ -20,7 +20,7 @@ I have fun working on research projects that involves statistical analysis, fore
   
 Here, I share some of my personal projects. Obviously, I cannot share work endeavors. The most recent repositories I've created:  
 
-${\color{plum}Sports \space Analytics:}$
+${\color{SeaGreen}Sports \space Analytics:}$
 - "track_ssm": A **State-Space Model** created to track the fitness level and predict the performance of 100m athletes. Bayesian logic and graphical depiction of the process are the focus in this project.
 - "odds": Pulling data from an API, cleaning and organizing it through functions and finally developing a **Classification Machine Learning Model** to see if it can measure up against predictions made in academic papers and if it is comparable to the solutions of the public betting markets.
   
