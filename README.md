@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **About:**  
 I have fun working on research projects that involves statistical analysis, forecasting, time-series and optimization to name a few. I also enjoy wild-camping!
   
-Here, I share some of my personal projects. Obviously, I cannot share work endeavors. The most recent repositories I've created:  
+Here, I share some of my personal projects. The most recent repositories I've created:  
 
 ${\color{SeaGreen}Sports \space Analytics:}$
 - "track_ssm": A **State-Space Model** created to track the fitness level and predict the performance of 100m athletes. Bayesian logic and graphical depiction of the process are the focus in this project.
@@ -28,4 +28,4 @@ ${\color{MidnightBlue}Quant \space Finance:}$
 - "FM_thesis": A study on the evolving impact of Inflation numbers and other announced macro-related variables on currency prices.
   
 Some technologies I like to use:  
-[![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,py,tensorflow,r,windows,obsidian,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,py,tensorflow,r,windows,obsidian,discord)]()
