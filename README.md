@@ -31,3 +31,4 @@ ${\color{MidnightBlue}TimeSeries \space Regressions:}$
   
 Some technologies I like to use:  
 [![My Skills](https://skillicons.dev/icons?i=git,latex,matlab,py,tensorflow,r,windows,obsidian,discord)]()
+![](https://github.com/V-Mitch/V-Mitch/blob/master/assets/stan.png)
